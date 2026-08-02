@@ -10,7 +10,6 @@
   },
   "dependencies": {
     "@base-ui/react": "^1.6.0",
-<<<<<<< HEAD
     "@hookform/resolvers": "^5.6.0",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
@@ -32,32 +31,10 @@
     "tailwind-merge": "^3.6.0",
     "tw-animate-css": "^1.4.0",
     "xlsx": "^0.18.5",
-=======
-    "@radix-ui/react-icons": "^1.3.2",
-    "@supabase/supabase-js": "^2.110.7",
-    "class-variance-authority": "^0.7.1",
-    "clsx": "^2.1.1",
-    "date-fns": "^4.4.0",
-    "exceljs": "^4.4.0",
-    "jspdf": "^4.2.1",
-    "leaflet": "^1.9.4",
-    "lucide-react": "^1.25.0",
-    "next": "16.2.10",
-    "react": "19.2.4",
-    "react-day-picker": "^10.0.1",
-    "react-dom": "19.2.4",
-    "react-hook-form": "^7.82.0",
-    "react-leaflet": "^5.0.0",
-    "shadcn": "^4.13.1",
-    "sonner": "^2.0.7",
-    "tailwind-merge": "^3.6.0",
-    "tw-animate-css": "^1.4.0",
->>>>>>> 759dfb3880b55c25bc7d5f4bffe9be4f4a5b37f1
     "zod": "^4.4.3"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
-<<<<<<< HEAD
     "@types/leaflet": "^1.9.22",
     "@types/node": "^20",
     "@types/react": "^19",
@@ -65,13 +42,6 @@
     "babel-plugin-react-compiler": "1.0.0",
     "eslint": "^9",
     "eslint-config-next": "16.2.12",
-=======
-    "@types/node": "^20",
-    "@types/react": "^19",
-    "@types/react-dom": "^19",
-    "eslint": "^9",
-    "eslint-config-next": "16.2.10",
->>>>>>> 759dfb3880b55c25bc7d5f4bffe9be4f4a5b37f1
     "tailwindcss": "^4",
     "typescript": "^5"
   }
