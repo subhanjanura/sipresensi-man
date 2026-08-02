@@ -1,0 +1,13 @@
+import { auth } from "@/firebase/auth";
+import {
+  signInWithEmailAndPassword,
+  signOut,
+} from "firebase/auth";
+
+export async function login(email: string, password: string) {
+  return signInWithEmailAndPassword(auth, email, password);
+}
+
+export async function logout() {
+  return signOut(auth);
+}
